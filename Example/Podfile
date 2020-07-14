@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HKUIValidator_Example' do
+  pod 'HKUIValidator', :path => '../'
+
+  target 'HKUIValidator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
