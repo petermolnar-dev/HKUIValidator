@@ -1,6 +1,6 @@
 # HKUIValidator
 
-[![CI Status](https://img.shields.io/travis/Peter Molnar/HKUIValidator.svg?style=flat)](https://travis-ci.org/Peter Molnar/HKUIValidator)
+[![CI Status](https://img.shields.io/travis/petermolnar-dev/HKUIValidator.svg?style=flat)](https://travis-ci.com/github/petermolnar-dev/HKUIValidator)
 [![Version](https://img.shields.io/cocoapods/v/HKUIValidator.svg?style=flat)](https://cocoapods.org/pods/HKUIValidator)
 [![License](https://img.shields.io/cocoapods/l/HKUIValidator.svg?style=flat)](https://cocoapods.org/pods/HKUIValidator)
 [![Platform](https://img.shields.io/cocoapods/p/HKUIValidator.svg?style=flat)](https://cocoapods.org/pods/HKUIValidator)
